@@ -1,4 +1,2 @@
-```text
 requests
 beautifulsoup4
-```
